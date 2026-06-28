@@ -1,0 +1,6 @@
+{
+  "name": "Aqdas Research Institute",
+  "description": "The official research and simulation platform dedicated to studying the world's most legendary baby brother.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
